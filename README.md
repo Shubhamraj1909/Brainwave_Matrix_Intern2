@@ -34,4 +34,22 @@ To run the website:
 2. Open index.html in your browser
 3.Customize or add your own products in script.js
 
+## 🔧 Uses
+
+This e-commerce website can be used for:
+
+- 🎓 **Web Development Practice**  
+  A great way to learn and improve HTML, CSS, and JavaScript skills by building a fully responsive and interactive frontend.
+
+- 🧑‍💼 **Portfolio Projects**  
+  Showcase your frontend development abilities with a complete and stylish e-commerce UI in your resume or GitHub portfolio.
+
+- 🛍️ **E-Commerce UI Prototypes**  
+  Use as a visual frontend demo for real-world e-commerce projects before adding backend functionality.
+
+- 📚 **DOM Manipulation Learning**  
+  Understand how to dynamically render content using JavaScript and practice working with arrays, loops, and events.
+
+- 💡 **Hackathons & Mini Projects**  
+  Use this as a base template for building and pitching product ideas, MVPs, or participating in frontend-focused hackathons.
 
