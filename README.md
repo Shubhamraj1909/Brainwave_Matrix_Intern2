@@ -1,1 +1,37 @@
 # Brainwave_Matrix_Intern2
+# 🛍️ TechKart – E-Commerce Website 
+
+**TechKart** is a responsive and attractive e-commerce frontend website built using **HTML**, **CSS**, and **JavaScript**. It features a modern UI with product listings, animated navigation, and dynamic features—all designed to offer a smooth shopping experience.
+
+
+
+## 📌 Features
+
+- 🧭 Beautiful Navigation Bar (Home, Login, Signup)
+- 🎨 Stylish UI with gradients, icons, hover animations
+- 🛒 Product listing section with images, names, and prices (₹)
+- 💻 Fully responsive layout
+- 🧠 Dynamic product rendering using JavaScript
+- 🔍 Clean and readable code structure
+
+
+
+## 🧰 Tech Stack
+
+- **HTML5** – Structure  
+- **CSS3** – Styling and layout  
+- **JavaScript** – Dynamic product loading and interactions  
+- **Google Fonts** & **Pexels/Freepik images** – Visual enhancements
+
+
+## 🚀 Getting Started
+
+To run the website:
+
+1. **Clone** this repository  
+
+   git clone https://github.com/your-username/ecommerce-website.git
+2. Open index.html in your browser
+3.Customize or add your own products in script.js
+
+
